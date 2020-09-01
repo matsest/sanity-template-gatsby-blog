@@ -1,23 +1,23 @@
 {
   "repository": {
-    "name": "sanity-gatsby-blog",
-    "owner": "sanity-io",
+    "name": "sanity-template-gatsby-blog",
+    "owner": "matsest",
     "private": false
   },
   "sanity": {
     "dataset": "blog",
-    "projectId": "jmhf2rn8",
-    "projectTitle": "Gatsby Blog"
+    "projectId": "w5nq1cju",
+    "projectTitle": "gatsby-netlify"
   },
   "user": {
-    "profileImage": "https://lh3.googleusercontent.com/-a67P3TV8b5g/AAAAAAAAAAI/AAAAAAAAADI/LGBX1ZAjh88/photo.jpg",
-    "displayName": "Marius Lundgård",
-    "email": "marius@sanity.io"
+    "profileImage": "https://mxe.no/images/me.jpg",
+    "displayName": "Mats Estensen",
+    "email": "matsest@mxe.no"
   },
   "userInput": {},
   "deployments": {
     "studio": {
-      "url": "https://sanity-gatsby-blog-studio-rf4qpk9y.netlify.com/",
+      "url": "https://matsby-cms.netlify.com/",
       "providerName": "netlify",
       "providerInfo": {
         "buildHookId": "5cc04d5199df1802277a6e91",
@@ -25,11 +25,11 @@
       }
     },
     "web": {
-      "url": "https://sanity-gatsby-blog-web-skupqnos.netlify.com/",
+      "url": "https://matsby.netlify.com/",
       "providerName": "netlify",
       "providerInfo": {
-        "buildHookId": "5caf2962008b0b042f8df19a",
-        "siteId": "7e740745-2e2e-4427-be81-aded75334337"
+        "buildHookId": "5f4eb8c051e3730118be3044",
+        "siteId": "d6aa5376-d3ae-46bd-a17b-8b03215f22d4"
       }
     }
   }
